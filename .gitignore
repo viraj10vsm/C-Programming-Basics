@@ -56,4 +56,5 @@ dkms.conf
 
 
 # TempCodeRunnerfile
-TempCodeRunnerfile 
+TempCodeRunnerfile.c
+
